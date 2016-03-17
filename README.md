@@ -1,7 +1,10 @@
 # jscolor
 
-just to provide a bower repository for the jscolor lib.
+Just to provide a bower repository for the jscolor lib. Install with
 
+```
+bower install jscolor --save
+```
 
 Credits to: 
 
