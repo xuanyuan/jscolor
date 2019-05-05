@@ -1,0 +1,19 @@
+{
+  "name": "jscolor",
+  "version": "1.4.2",
+  "description": "JavaScript Color Picker",
+  "main": "jscolor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuanyuan/jscolor.git"
+  },
+  "author": "Jan Odvarko, http://odvarko.cz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuanyuan/jscolor/issues"
+  },
+  "homepage": "https://github.com/xuanyuan/jscolor#readme"
+}
